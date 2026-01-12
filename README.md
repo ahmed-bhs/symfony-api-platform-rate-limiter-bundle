@@ -9,6 +9,19 @@ ApiRateLimitBundle
 [![Source](https://img.shields.io/badge/source-IndraGunawan%2Fapi--rate--limit--bundle-blue.svg)](https://github.com/IndraGunawan/api-rate-limit-bundle)
 [![Packagist](https://img.shields.io/badge/packagist-indragunawan%2Fapi--rate--limit--bundle-blue.svg)](https://packagist.org/packages/indragunawan/api-rate-limit-bundle)
 
+<div align="center">
+
+### ☕ Support This Project
+
+If this project helped you or saved you time, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/w6ZhBSGX2)
+
+*Your support helps maintain this project and create more learning resources!* ❤️
+
+</div>
+
+
 This bundle provide rate limits protection for [ApiPlatform](https://api-platform.com) resources.
 
 Documentation
